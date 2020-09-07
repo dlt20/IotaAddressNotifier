@@ -1,0 +1,6 @@
+{"externalAesKeyFragment":"AES_KEY_PART",
+"iotaZMQLink":"IOTA_NODE_IP:5556",
+"iotaApiLink":"IOTA_NODE_IP:14265",
+"telegramSecret":"TELEGRAM_SECRET",
+"masterTelegramID":"OPERATOR_TELEGRAM_ID",
+"initialDonationAddress":"IOTA_DONATION_ADDRESS",}

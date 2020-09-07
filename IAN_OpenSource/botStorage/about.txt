@@ -1,0 +1,1 @@
+Text added in the /botStorage/about.txt file will be added to the bot's response to the /about command.

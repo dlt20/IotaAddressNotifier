@@ -95,9 +95,11 @@ public class TelegramResponse {
 		// - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 		// Start of the input processing:
 
-		// Only proceed if the user accepted to not use the bot with a seed
-		if (this.user.isAllowed()) {
-			
+		// Bouncer for limited users during beta test -> deactivated
+		//if (this.user.isAllowed()) {
+		if (true) {
+
+			// Only proceed if the user accepted to not use the bot with a seed
 			// Check if the user accepts to not use a seed
 			if (!this.user.isNoSeed() && inputTextLowerCase.contains("/iwillnotuseaseed")) {
 				botUnderstoodCommand = true;

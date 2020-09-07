@@ -18,8 +18,8 @@ public class BotConfigReader {
 	private String externalAesKeyFragment, iotaZMQLink, iotaApiLink, masterTelegramID, telegramSecret, initialDonationAddress, aboutString, adminSecret;
 	private long lastTime, currentTime;
 	private EncryptionObject encryObject;
-	private static String configPath = "/BC.txt";			// or /BotConfiguration.txt
-	private static String aboutPath = "/AB.txt";						// or /about.txt
+	private static String configPath = "/BotConfiguration.txt";			// or /BotConfiguration.txt
+	private static String aboutPath = "/about.txt";						// or /about.txt
 
 	public BotConfigReader() {
 

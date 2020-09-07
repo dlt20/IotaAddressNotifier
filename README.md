@@ -4,7 +4,7 @@
 
 The IOTA Address Notifier (IAN) is a Telegram bot that offers mobile notifications about transactions on IOTA addresses. Users can add any IOTA address to the bot, and will receive notifications if tokens are sent to or from this address. Additionally, the bot sends a notification if such a transaction gets confirmed by the IOTA network. In the last two years the bot was running in a closed alpha and recently a beta stage. 
 
-You can either use the bot by joining the running version of IAN (more information <a href="http://iotawatch.it/" target="_blank">`here`</a>), or set up an instance yourself with the code available in this repo. The software is still in a beta phase and not production ready. Limitations and errors might occur.
+You can either use the bot by joining the running version of IAN, or set up an instance yourself with the code available in this repo. The software is still in a beta phase and not production ready. Limitations and errors might occur.
 
 The bot offers further features, like spam control, an token auto-follow feature, balance calculation in USD/EUR/BTC:
 
@@ -115,7 +115,6 @@ referred to as *TELEGRAM_SECRET* in the following.
 
 Reach out at one of the following places!
 
-- Website at <a href="http://iotawatch.it/" target="_blank">`http://iotawatch.it/`</a>
 - In the <a href="https://discord.iota.org" target="_blank">`IOTA Discord`</a>: Felix - iotawatch.it#8563
 
 If you want to support the project, consider donating here:
@@ -130,4 +129,3 @@ Use at your own risk. No guarantee for accurate, up-to-date or complete informat
 Bot uses price data **powered by CoinGecko API**, API is free of charge as of 3rd of September 2020.
 
 - **[MPL-2.0 license](https://opensource.org/licenses/MPL-2.0)**
-- Copyright 2020 © <a href="http://iotawatch.it/" target="_blank">IOTA Address Notifier</a>.

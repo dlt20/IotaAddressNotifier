@@ -117,9 +117,6 @@ Reach out at one of the following places!
 
 - In the <a href="https://discord.iota.org" target="_blank">`IOTA Discord`</a>: Felix - iotawatch.it#8563
 
-If you want to support the project, consider donating here:
- - Support with IOTAs: <a href="https://thetangle.org/address/9UMQUODAHMRHCHIEPB9LFANMJFYQPQKQSFLWNAQVTRRXTUNBUJBUTHAHQJAFBIAZIWLVIXDQDHYBUUBTXDVMQWIEWC" target="_blank">`Donation (TheTangle.com)`</a>
-
 ---
 
 ## Disclaimer

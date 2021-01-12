@@ -1,5 +1,3 @@
-<a href="http://iotawatch.it"><img src="http://iotawatch.it/header_new.png" title="IOTA Watch Bot" alt="IOTA Watch Bot"></a>
-
 # Iota Address Notifier
 
 The IOTA Address Notifier (IAN) is a Telegram bot that offers mobile notifications about transactions on IOTA addresses. Users can add any IOTA address to the bot, and will receive notifications if tokens are sent to or from this address. Additionally, the bot sends a notification if such a transaction gets confirmed by the IOTA network. In the last two years the bot was running in a closed alpha and recently a beta stage. 
